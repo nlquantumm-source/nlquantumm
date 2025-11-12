@@ -1,14 +1,4 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Image Display</title>
-</head>
-<body>
-    <img src="https://github.com/user-attachments/assets/1c404486-5ecd-4d65-bac8-ca9b4225392e" alt="Image" style="max-width: 100%; height: auto;">
-</body>
-</html>
+![Image](https://github.com/user-attachments/assets/7e9b5b32-f290-4eff-b6a2-8e3f26c6dc68)
 
 👋 Hi, I'm Noah @nlquantumm-source, a South Korean, doing research on materials applicable on Quantum Computer & CMOS quantum memory devices based on advanced spintronics.<br />
 👨‍💻 I'm self-taught in Mathematics, Physics & scientific computing.<br />
