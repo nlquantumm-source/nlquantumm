@@ -1,3 +1,5 @@
+![Image](https://github.com/user-attachments/assets/7e9b5b32-f290-4eff-b6a2-8e3f26c6dc68)<br />
+
 👋 Hi, I'm Noah @nlquantumm-source, a South Korean, doing research on materials applicable on Quantum Computer & CMOS quantum memory devices based on advanced spintronics.<br />
 👨‍💻 I'm self-taught in Mathematics, Physics & scientific computing.<br />
 ✍️ My areas of work include: electron-beam lithography, nanodevice patterning, quantum hardware systems engineering, & materials integration.<br />
