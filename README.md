@@ -2,5 +2,5 @@
 👨‍💻 I'm self-taught in Mathematics, Physics & scientific computing.<br />
 ✍️ My areas of work include: nano fabrication, quantum hardware systems engineering, & materials integration.<br />
 👀 My interest is in optimizable quantum hardware engineering, nanofabrication engineering, quantum computation, & data-driven 3D modeling.<br />
-👨‍🔬 I'm a current Staff Researcher at University of Minnesota-Twin Cities, working with @OJB-Quantum for several research papers publish on new materials & quantum hardware architecture in our office and nanofabrication facility (Cleanroom).<br />
+👨‍🔬 I'm a current paid-research assitant at University of Minnesota-Twin Cities, working with @OJB-Quantum for several research papers publish on new materials & quantum hardware architecture in our office and nanofabrication facility (Cleanroom).<br />
 📖 I'm planning to do a master's degree in Electrical Engineering, focus on Quantum Hardware Systems Engineering.<br />
